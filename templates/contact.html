@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+
+    <title>Contactez-nous</title>
+    <style>
+      /* Add background image to the header */
+      header {
+        background-image: url('static/back.jpg'); /* Ensure using forward slashes */
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-color: rgba(0, 0, 0, 0.3); /* Optional: semi-transparent overlay for readability */
+      }
+    </style>
+  </head>
+  <body class="bg-gray-200">
+
+    <header class="text-white body-font bg-cover bg-center" style="background-image: url('{{ url_for('static', filename='back.jpg') }}');">
+      <div class="container mx-auto flex p-5 flex-col md:flex-row items-center justify-between bg-black bg-opacity-50 p-8">
+        <!-- Left Logo with Tailwind Styling -->
+        <div class="flex items-center">
+          <img src="{{ url_for('static', filename='logo1.png') }}" alt="Logo Gauche" class="w-20 h-20 object-contain rounded-full shadow-lg border-4 border-white">
+        </div>
+
+        <!-- Navigation Menu centered and sleek -->
+        <nav class="flex space-x-10 text-lg font-semibold text-white">
+          <a href="/" class="hover:text-yellow-500 transition-all">Accueil</a>
+          <a href="/predict" class="hover:text-yellow-500 transition-all">Prédiction</a>
+          <a href="about" class="hover:text-yellow-500 transition-all">À propos</a>
+          <a href="#" class="hover:text-yellow-500 transition-all">Contactez-nous</a>
+        </nav>
+
+        <!-- Right Logo with Tailwind Styling -->
+        <div class="flex items-center">
+          <img src="{{ url_for('static', filename='logo.png') }}" alt="Logo Droit" class="w-20 h-20 object-contain rounded-full shadow-lg border-4 border-white">
+        </div>
+      </div>
+    </header>
+
+    <hr>
+
+    <!-- Main Content Section -->
+    <section class="text-gray-600 body-font -my-8">
+      <div class="container px-5 py-24 mx-auto">
+        <div class="flex flex-col text-center w-full mb-20">
+          <h2 class="text-xs text-green-500 tracking-widest font-medium title-font mb-1">Contactez-nous</h2>
+          <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">Nous sommes là pour vous aider</h1>
+          <p class="lg:w-2/3 mx-auto leading-relaxed text-base">Si vous avez des questions, des commentaires ou des demandes, n'hésitez pas à nous contacter. Nous sommes disponibles pour discuter et répondre à toutes vos préoccupations.</p>
+        </div>
+
+        <!-- Contact Information Section -->
+        <div class="bg-white p-8 rounded-lg shadow-lg space-y-6">
+          <h2 class="text-2xl font-semibold text-gray-800">Nos coordonnées</h2>
+          <div class="space-y-4">
+            <p><strong class="text-lg text-gray-700">WhatsApp:</strong> <a href="https://wa.me/212604462376" class="text-blue-500 hover:text-blue-700">0604462376</a></p>
+            <p><strong class="text-lg text-gray-700">Email:</strong> <a href="mailto:yassine.rachid.info@gmail.com" class="text-blue-500 hover:text-blue-700">yassine.rachid.info@gmail.com</a></p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Optional JavaScript; choose one of the two! -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+  </body>
+</html>

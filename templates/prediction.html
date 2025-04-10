@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+
+    <title>Détection de la désinformation</title>
+    <style>
+      /* Add background image to the header */
+      header {
+        background-image: url('static/back.jpg'); /* Ensure using forward slashes */
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-color: rgba(0, 0, 0, 0.3); /* Optional: semi-transparent overlay for readability */
+      }
+    </style>
+  </head>
+  <body class="bg-gray-200">
+    <header class="text-white body-font bg-cover bg-center" style="background-image: url('{{ url_for('static', filename='back.jpg') }}');">
+      <div class="container mx-auto flex p-5 flex-col md:flex-row items-center justify-between bg-black bg-opacity-50 p-8">
+        <!-- Left Logo with Tailwind Styling -->
+        <div class="flex items-center">
+          <img src="{{ url_for('static', filename='logo1.png') }}" alt="Logo Gauche" class="w-20 h-20 object-contain rounded-full shadow-lg border-4 border-white">
+        </div>
+
+        <!-- Navigation Menu centered and sleek -->
+        <nav class="flex space-x-10 text-lg font-semibold text-white">
+          <a href="/" class="hover:text-yellow-500 transition-all">Accueil</a>
+          <a href="#" class="hover:text-yellow-500 transition-all">Prédiction</a>
+          <a href="/about" class="hover:text-yellow-500 transition-all">À propos</a>
+          <a href="/contact" class="hover:text-yellow-500 transition-all">Contactez-nous</a>
+        </nav>
+
+        <!-- Right Logo with Tailwind Styling -->
+        <div class="flex items-center">
+          <img src="{{ url_for('static', filename='logo.png') }}" alt="Logo Droit" class="w-20 h-20 object-contain rounded-full shadow-lg border-4 border-white">
+        </div>
+      </div>
+    </header>
+
+      <hr>
+
+      <!-- Main Content Section -->
+      <section class="text-gray-600 body-font -my-8">
+        <div class="container px-5 py-24 mx-auto">
+          
+          <br><p style="font-weight: 500; text-align: center; position: relative; bottom: 75px;" class="text-primary"><b>{{prediction_text}}</b></p>
+          <div style="position: relative; bottom: 40px;" class="center">
+            <form action="/predict" method="POST">
+                <div class="mb-3">
+                  <label for="exampleInputEmail1" class="form-label">Entrez les titres des actualités</label>
+                  <input type="text" class="form-control" id="news" name="news" aria-describedby="emailHelp">
+                  <div id="emailHelp" class="form-text">L'authenticité des actualités peut être vérifiée ici.</div>
+                </div>
+                <button style="height: 45px; width: 110px; background: #10b962;"  type="submit" class="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">Prédire</button>
+              </form>
+          </div>
+        </div>
+      </section>
+
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+
+  </body>
+</html>

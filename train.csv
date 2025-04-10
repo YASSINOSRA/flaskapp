@@ -1,0 +1,201 @@
+id,title,author,text,label
+1,L'Internet est sans fin,Pierre Lemoine,"L'Internet est vaste, mais il n'est pas infini et possède des limites techniques et pratiques.",1
+2,Les poissons peuvent respirer hors de l'eau,François Lefevre,Les poissons respirent grâce aux branchies et ne peuvent pas respirer hors de l'eau pendant longtemps.,1
+3,La terre est stationnaire,Michel Lefevre,"La Terre tourne autour du soleil, contrairement à l'idée erronée que la Terre serait stationnaire.",1
+4,Les chiens peuvent voler,Sophie Durand,"Les chiens ne peuvent pas voler, ils sont des animaux terrestres.",1
+5,Les gorilles sont végétariens,Jérôme Boucher,"Les gorilles sont principalement herbivores, bien qu'ils puissent parfois manger des insectes.",0
+6,Les pyramides d'Égypte ont été construites par des extraterrestres,Claude Marais,"Les pyramides ont été construites par les anciens Égyptiens grâce à leurs compétences en ingénierie, non par des extraterrestres.",1
+7,La gravité est un mythe,Lucien Picard,La gravité est une force bien documentée qui attire les objets vers le centre de la Terre.,1
+8,Les abeilles produisent du miel,Pierre Moreau,Les abeilles produisent du miel à partir du nectar qu'elles récoltent des fleurs.,0
+9,La Terre est plate,Maxime Durant,"La Terre est ronde, comme l'a prouvé la science à travers des siècles d'observations et de recherches.",1
+10,Les ordinateurs sont infaillibles,Caroline Delacour,Les ordinateurs peuvent rencontrer des erreurs et des défaillances techniques malgré leur puissance.,1
+11,Le soleil est une étoile,Jean-Michel Lefevre,Le soleil est une étoile située au centre de notre système solaire.,0
+12,La lune est faite de fromage,Alain Dupont,"La lune est une planète rocheuse, elle n'est pas composée de fromage comme dans certaines légendes.",1
+13,Les serpents peuvent voler,Marc Lefevre,"Les serpents ne volent pas, mais certaines espèces peuvent planer pendant de courtes distances.",1
+14,Le corps humain est composé uniquement de cellules,Sylvain Dufresne,"Le corps humain est constitué de cellules, mais aussi de tissus, organes et systèmes complexes.",1
+15,Les astronautes vivent dans l'espace pour toujours,Gérard Lefevre,"Les astronautes ne peuvent pas vivre éternellement dans l'espace, et ils doivent revenir sur Terre après des missions",1
+16,Les poules peuvent pondre des œufs sans mâle,Élise Dufresne,"Les poules peuvent pondre des œufs sans la présence d'un mâle, mais ces œufs ne seront pas fécondés.",0
+17,Le vent souffle toujours dans la même direction,Mélanie Boucher,Le vent change de direction en fonction de la météo et des courants atmosphériques.,1
+18,Les éléphants sont des créatures intelligentes,Louis Leclerc,"Les éléphants sont effectivement des créatures très intelligentes, capables de résoudre des problèmes complexes.",0
+19,L'humain peut respirer sous l'eau,Philippe Lefevre,L'humain ne peut pas respirer sous l'eau sans équipement spécialisé comme un tuba ou un scaphandre.,1
+20,Le chocolat est bon pour la santé,Claire Dufresne,"Le chocolat peut être bénéfique en petite quantité, mais une consommation excessive peut nuire à la santé.",1
+21,Les oiseaux migrent vers le Sud en hiver,Alice Lefevre,"Les oiseaux migrent effectivement vers le Sud en hiver, cherchant des climats plus chauds.",0
+22,Les dinosaures ont vécu avec les humains,Éric Lefevre,Les dinosaures ont disparu des millions d'années avant l'apparition de l'homme.,1
+23,Les éléphants peuvent se souvenir de choses pendant des années,Pierre Lefevre,Les éléphants ont une excellente mémoire et peuvent se souvenir de choses pendant des années.,0
+24,Les chats détestent l'eau,Marc Lefevre,"En général, les chats n'aiment pas l'eau, mais certains peuvent y être habitués.",0
+25,Les oiseaux sont des reptiles,Thérèse Lefevre,"Les oiseaux sont des descendants directs des reptiles, ayant des ancêtres communs avec eux.",0
+26,Les extraterrestres existent et nous surveillent,Luc Lefevre,Aucune preuve scientifique ne confirme l'existence d'extraterrestres ou qu'ils nous surveillent.,1
+27,Les champignons sont des plantes,Hélène Lefevre,"Les champignons sont des organismes distincts des plantes, appartenant à leur propre règne, les Fungi.",0
+28,L'homme peut respirer sous l'eau,Claude Lefevre,L'homme ne peut pas respirer sous l'eau sans un équipement spécial tel qu'un tuba ou un scaphandre.,1
+29,Les poissons peuvent vivre dans des aquariums,Yves Lefevre,Les poissons peuvent vivre dans des aquariums s'ils ont l'espace et l'eau adéquate pour respirer et se nourrir.,0
+30,Les girafes sont végétariennes,Julie Lefevre,Les girafes sont herbivores et se nourrissent principalement de feuilles d'arbres.,0
+31,La Terre est plus vieille que le Soleil,Michel Lefevre,"Le Soleil est plus vieux que la Terre, avec une formation datant de près de 4,6 milliards d'années pour le Soleil, contre 4,5 milliards d'années pour la Terre.",1
+32,Le vin est bon pour la santé,Caroline Lefevre,"Le vin peut avoir des effets bénéfiques en petite quantité, mais une consommation excessive peut nuire à la santé.",0
+33,Les baleines mangent des humains,Jean Lefevre,"Les baleines ne mangent pas des humains, leur régime alimentaire consiste principalement de krill et de petits poissons.",1
+34,Les humains partagent 99% de leur ADN avec les chimpanzés,Marie Lefevre,"Les humains et les chimpanzés partagent en effet environ 99% de leur ADN, mais les différences restantes sont significatives.",0
+35,Les hommes ne peuvent pas être végétariens,Lucie Lefevre,Les humains peuvent être végétariens et obtenir tous les nutriments nécessaires à une alimentation équilibrée.,1
+36,Les diamants sont indestructibles,Bernard Lefevre,"Les diamants sont très résistants, mais ils peuvent être cassés sous certaines conditions de pression.",1
+37,Le sucre est mauvais pour la santé,Thierry Lefevre,"Une consommation excessive de sucre peut nuire à la santé, mais une petite quantité dans le cadre d'un régime équilibré est acceptable.",0
+38,Les océans sont sans fin,Isabelle Lefevre,"Les océans, bien qu'immenses, ne sont pas sans fin et possèdent des limites géographiques et politiques.",1
+39,Les humains peuvent vivre dans l'espace sans combinaison,Bernadette Lefevre,"Les humains ne peuvent pas vivre dans l'espace sans une combinaison spatiale, car il n'y a pas d'air et les températures sont extrêmes.",1
+40,Les abeilles peuvent piquer plusieurs fois,Sophie Lefevre,"Les abeilles peuvent piquer plusieurs fois, mais cela dépend de la situation et de la volonté de l'abeille de se défendre.",0
+41,Le ciel est bleu à cause de l'oxygène,Pierre Lefevre,"Le ciel est bleu en raison de la diffusion de la lumière par les molécules d'air, notamment l'azote, pas l'oxygène.",1
+42,Les humains peuvent se téléporter,Dominique Lefevre,"La téléportation, en tant que moyen de transport instantané, n'est pas encore réalisable avec la technologie actuelle.",1
+43,Les dinosaures ont disparu après un impact météoritique,Jean Lefevre,"Il est largement accepté que l'extinction des dinosaures ait été causée par un impact météoritique, bien que d'autres facteurs aient joué un rôle.",0
+44,Les téléphones portables causent des cancers,Claire Lefevre,"Il n'existe pas de preuve concluante que les téléphones portables causent des cancers, bien que des études continuent d'être menées sur ce sujet.",1
+45,Le vin rouge est meilleur que le vin blanc,David Lefevre,"Le choix entre vin rouge et blanc dépend des préférences personnelles, chacun ayant ses qualités et bénéfices.",0
+46,Les arbres peuvent survivre sans soleil,Sylvie Lefevre,"Les arbres ont besoin de lumière pour la photosynthèse, bien que certaines espèces puissent survivre dans des conditions de faible luminosité.",1
+47,Les chewing-gums sont faits de plastique,Jacques Lefevre,"Les chewing-gums sont faits principalement de résines naturelles et de gommes synthétiques, mais pas de plastique.",1
+48,Les plantes produisent de l'oxygène,Bernadette Lefevre,"Les plantes produisent de l'oxygène pendant la photosynthèse, un processus vital pour la vie sur Terre.",0
+49,Les voitures volent en 2023,Jean-Marie Lefevre,"Bien que des prototypes existent, les voitures volantes ne sont pas encore accessibles au grand public en 2023.",1
+50,Les chats ont 9 vies,Thierry Lefevre,"Les chats n'ont en réalité qu'une vie, bien que l'expression 'avoir 9 vies' reflète leur capacité à survivre à des situations dangereuses.",1
+51,Les étoiles sont des planètes,Luc Lefevre,"Les étoiles sont des objets célestes qui émettent de la lumière en raison de réactions nucléaires, tandis que les planètes ne produisent pas de lumière.",1
+52,Les tigres vivent en Afrique,Marie Lefevre,"Les tigres vivent principalement en Asie et non en Afrique, où les lions sont les félins dominants.",1
+53,Les humains sont les seuls à avoir des rêves,Thérèse Lefevre,"Les animaux, y compris les chiens et les dauphins, ont également des cycles de sommeil où des rêves peuvent se produire.",1
+54,Les requins peuvent détecter de petites quantités de sang dans l'eau,Claude Lefevre,"Les requins peuvent en effet détecter de petites quantités de sang dans l'eau, ce qui les aide à localiser leurs proies.",0
+55,Les tortues vivent plus longtemps que les humains,Sylvie Lefevre,"Certaines espèces de tortues peuvent vivre plusieurs centaines d'années, bien plus longtemps que la moyenne de vie humaine.",0
+56,Les humains partagent 100% de leur ADN avec les chimpanzés,Alain Lefevre,"Les humains partagent environ 99% de leur ADN avec les chimpanzés, mais ce n'est pas un partage total.",1
+57,Les poissons peuvent respirer hors de l'eau,Caroline Lefevre,"La plupart des poissons ne peuvent pas respirer hors de l'eau, bien qu'il existe quelques exceptions, comme les poissons pulmonés.",1
+58,Le chocolat est toxique pour les chiens,Bernadette Lefevre,"Le chocolat contient des substances toxiques pour les chiens, comme la théobromine, qui peut causer des problèmes de santé graves.",0
+59,Les glaciers fondent à cause du réchauffement climatique,Luc Lefevre,Le réchauffement climatique est l'une des principales causes de la fonte des glaciers dans le monde entier.,0
+60,Les baleines chantent des chansons pour se divertir,Isabelle Lefevre,"Les baleines chantent en réalité pour la communication et la navigation, mais cela peut aussi être perçu comme un moyen de maintenir des liens sociaux.",0
+61,Les araignées tissent des toiles pour attraper des proies,Sophie Lefevre,"Les araignées tissent des toiles pour capturer des proies, mais certaines, comme les araignées de type 'chasseur', n'utilisent pas de toile.",0
+62,Les météorites sont des étoiles filantes,Claude Lefevre,"Les météorites sont des fragments de roches spatiales qui atteignent la Terre, tandis que les étoiles filantes sont des débris qui brûlent dans l'atmosphère.",1
+63,Les pommes de terre sont des fruits,Pierre Lefevre,"Les pommes de terre sont des tubercules et non des fruits, bien que certaines plantes produisent des fruits contenant des graines.",1
+64,Les caméléons changent de couleur pour se camoufler,Julie Lefevre,"Les caméléons changent de couleur principalement pour réguler leur température et communiquer, bien que le camouflage soit également un facteur.",0
+65,Les oiseaux pondent des œufs,Bernadette Lefevre,"Les oiseaux pondent des œufs pour se reproduire, ce qui est une caractéristique essentielle de leur biologie.",0
+66,Les lions vivent en solitaire,Michel Lefevre,"Les lions vivent généralement en groupes sociaux appelés 'troupes', contrairement à d'autres félins qui vivent seuls.",1
+67,Les cheveux des humains continuent de pousser après la mort,David Lefevre,"Les cheveux ne continuent pas de pousser après la mort, mais peuvent sembler plus longs à cause de la déshydratation de la peau.",1
+68,Le lait est une bonne source de calcium pour les adultes,Caroline Lefevre,"Le lait est riche en calcium, mais il existe d'autres sources, comme les légumes à feuilles vertes, qui peuvent être plus bénéfiques pour certains adultes.",0
+69,L'eau bouillante est plus chaude que la vapeur,Luc Lefevre,"La vapeur peut atteindre des températures plus élevées que l'eau bouillante, car la chaleur est contenue dans la phase gazeuse.",1
+70,Les ondes radio peuvent traverser les murs,Bernadette Lefevre,"Les ondes radio peuvent traverser certains murs, bien que l'efficacité de la transmission dépende de la densité et de l'épaisseur du matériau.",0
+71,Le café est mauvais pour la santé,Thérèse Lefevre,"Le café peut avoir des effets bénéfiques sur la santé, comme une amélioration de la concentration, mais une consommation excessive peut nuire.",0
+72,Les gorilles vivent dans des savanes,Hélène Lefevre,"Les gorilles vivent principalement dans les forêts tropicales et non dans des savanes ouvertes, où les conditions sont trop sèches.",1
+73,Les flamingos sont roses à cause de leur alimentation,Claude Lefevre,Les flamants roses doivent leur couleur rose à une alimentation riche en caroténoïdes présents dans les algues et les crustacés.,0
+74,L'astronautique est une science très récente,Luc Lefevre,"L'astronautique a débuté avec les premières missions spatiales dans les années 1950, mais l'étude des corps célestes existe depuis des siècles.",1
+75,Les glaciers grandissent dans certaines régions,Jean Lefevre,"Les glaciers peuvent en effet croître dans certaines régions froides, mais la tendance générale est à la fonte en raison du réchauffement climatique.",0
+76,L'humidité rend l'air plus lourd,David Lefevre,"L'humidité rend l'air moins dense, car la vapeur d'eau est moins lourde que l'azote ou l'oxygène qui composent l'air.",1
+77,Les rhinocéros sont des herbivores,Sophie Lefevre,"Les rhinocéros sont en effet des herbivores, se nourrissant principalement de plantes et d'herbes.",0
+78,Les poissons rouges ont une mémoire de trois secondes,Bernadette Lefevre,"Les poissons rouges ont une mémoire bien plus longue que trois secondes, des études montrent qu'ils peuvent se souvenir de choses pendant plusieurs mois.",1
+79,Les abeilles vivent en colonie,Luc Lefevre,"Les abeilles vivent en colonies organisées avec une reine, des ouvrières et des faux bourdons pour assurer la reproduction et la collecte du nectar.",0
+80,Les caméléons peuvent changer de couleur en fonction de leur humeur,Claire Lefevre,"Les caméléons changent de couleur principalement en fonction de la température et de la lumière, bien que l'émotion joue un rôle secondaire.",0
+81,L'armageddon est une prophétie réelle,Michel Lefevre,"L'Armageddon est une prophétie religieuse, mais il n'y a aucune preuve scientifique que cet événement apocalyptique ait une base réelle.",1
+82,Les lunes de Jupiter sont habitées,Jean Lefevre,Il n'y a aucune preuve que les lunes de Jupiter soient habitées. Les missions spatiales continuent d'explorer leur potentiel pour la vie microbienne.,1
+83,Les avions peuvent voler sans carburant,Dominique Lefevre,"Les avions modernes ont besoin de carburant pour voler, bien que des recherches soient menées pour des avions utilisant des technologies de propulsion plus écologiques.",1
+84,Les vélos ont été inventés au 18e siècle,Pierre Lefevre,"Les vélos ont été inventés au 19e siècle, avec des premiers prototypes qui ont évolué pour devenir les modèles modernes.",1
+85,Les pandas mangent principalement du bambou,Jean Lefevre,"Les pandas géants ont un régime alimentaire constitué à près de 99% de bambou, bien qu'ils puissent aussi manger d'autres végétaux.",0
+86,Les dauphins peuvent comprendre le langage des humains,Isabelle Lefevre,"Les dauphins sont intelligents et peuvent comprendre certains gestes et commandes, mais ils ne comprennent pas directement le langage humain.",1
+87,Les crocodiles mangent des fruits,Marie Lefevre,"Les crocodiles sont carnivores et ne mangent pas de fruits, leur régime alimentaire consiste principalement en viande.",1
+88,Le Sahara est le plus grand désert chaud du monde,Luc Lefevre,"Le Sahara est le plus grand désert chaud du monde, couvrant une large partie de l'Afrique du Nord.",0
+89,Les araignées peuvent tisser des toiles invisibles,Caroline Lefevre,"Les araignées ne tissent pas des toiles invisibles, mais certaines toiles peuvent être difficilement visibles en raison de leur couleur ou de la lumière ambiante.",1
+90,Les girafes sont les plus grands animaux terrestres,Bernadette Lefevre,"Les girafes sont effectivement les plus grands animaux terrestres, leurs cous pouvant atteindre jusqu'à 5,5 mètres de hauteur.",0
+91,Le chocolat blanc contient du cacao,David Lefevre,"Le chocolat blanc ne contient pas de cacao solide, il est fabriqué à partir du beurre de cacao, qui est un dérivé du cacao.",1
+92,Les montagnes peuvent grandir en taille,Hélène Lefevre,"Les montagnes peuvent en effet grandir au fil du temps en raison des forces géologiques, comme les mouvements tectoniques.",0
+93,Les éclipses sont des phénomènes mystiques,Michel Lefevre,"Les éclipses sont des phénomènes astronomiques naturels causés par l'alignement des corps célestes, et non des événements mystiques.",1
+94,Le Soleil est une étoile,Luc Lefevre,"Le Soleil est effectivement une étoile, une énorme sphère de gaz qui génère de la lumière et de la chaleur en raison de réactions nucléaires.",0
+95,Les moutons ont une bonne vue,Bernadette Lefevre,"Les moutons ont une vision périphérique large, mais leur acuité visuelle est relativement faible comparée à celle des humains.",1
+96,Les étoiles filantes sont des comètes,Pierre Lefevre,"Les étoiles filantes sont des météorites entrant dans l'atmosphère, et non des comètes qui sont des corps célestes avec des queues de gaz.",1
+97,Le vent est l'air en mouvement,Claude Lefevre,"Le vent est effectivement de l'air en mouvement, généralement causé par des différences de température et de pression dans l'atmosphère.",0
+98,Les pinguins vivent sur les continents chauds,Isabelle Lefevre,"Les pingouins vivent principalement dans des régions froides, notamment en Antarctique, bien que quelques espèces vivent dans des zones plus tempérées.",1
+99,Les tortues peuvent respirer sous l'eau,Caroline Lefevre,"Les tortues marines peuvent retenir leur souffle sous l'eau pendant de longues périodes, mais elles ne respirent pas sous l'eau.",1
+100,Le magnétisme et l'électricité sont liés,Michel Lefevre,"Le magnétisme et l'électricité sont deux aspects du même phénomène fondamental, unifiés dans la théorie de l'électromagnétisme.",0
+101,Les licornes existent,David Lefevre,Les licornes sont des créatures mythologiques et n'existent pas dans la réalité. Elles apparaissent souvent dans les légendes et les contes.,1
+102,Les abeilles sont essentielles à la pollinisation,Bernadette Lefevre,"Les abeilles jouent un rôle crucial dans la pollinisation des plantes, ce qui est essentiel pour la production de nourriture et la biodiversité.",0
+103,L'eau est un liquide inodore,Isabelle Lefevre,"L'eau pure est effectivement inodore, mais elle peut prendre des odeurs si elle contient des impuretés ou des contaminants.",1
+104,Les requins sont des poissons dangereux,Claude Lefevre,"Bien que les requins soient parfois perçus comme dangereux, la plupart des espèces de requins ne représentent aucun danger pour les humains.",1
+105,Les humains ont cinq sens,Pierre Lefevre,"Les humains possèdent effectivement cinq sens de base : la vue, l'ouïe, le goût, l'odorat et le toucher, bien que des sens supplémentaires, comme la proprioception, existent.",0
+106,Les éléphants ont une mémoire exceptionnelle,Michel Lefevre,"Les éléphants sont connus pour leur mémoire remarquable, notamment en ce qui concerne les routes migratoires et les relations sociales au sein de leur groupe.",0
+107,Les chauves-souris sont aveugles,Caroline Lefevre,"Les chauves-souris ne sont pas aveugles. Elles utilisent l'écholocation pour se déplacer, mais elles ont également une bonne vue, en particulier certaines espèces.",1
+108,Le sucre est bon pour la santé,Luc Lefevre,"Le sucre peut être bénéfique en petites quantités pour fournir de l'énergie, mais une consommation excessive peut entraîner des problèmes de santé, comme le diabète.",1
+109,La Terre est plate,David Lefevre,La Terre est une sphère légèrement aplatie aux pôles et non plate. Les preuves scientifiques et les observations montrent clairement la forme sphérique de la Terre.,1
+110,Les caméléons changent de couleur pour se cacher,Bernadette Lefevre,"Les caméléons changent de couleur principalement en réponse à des facteurs tels que la température, l'humidité et les émotions, bien que le camouflage en fasse également partie.",0
+111,Le lait de vache est le meilleur pour les humains,Caroline Lefevre,"Bien que le lait de vache soit une bonne source de calcium, certaines personnes ne peuvent pas le digérer, et il existe d'autres alternatives comme le lait d'amande ou de soja.",1
+112,Le vent solaire peut affecter la Terre,Pierre Lefevre,"Le vent solaire, composé de particules chargées émises par le Soleil, peut effectivement affecter la Terre en créant des aurores et en perturbant les communications satellitaires.",0
+113,Les camions roulent plus vite que les voitures,Luc Lefevre,"Les camions ont généralement une vitesse maximale inférieure à celle des voitures en raison de leur taille et de leur poids, ce qui les rend moins rapides.",1
+114,Les grenouilles peuvent sauter très haut,David Lefevre,"Les grenouilles ont des capacités de saut exceptionnelles en fonction de leur taille, mais elles ne peuvent pas sauter aussi haut que certains autres animaux.",1
+115,L'Antarctique est un désert,Michel Lefevre,"L'Antarctique est effectivement un désert froid, car il reçoit très peu de précipitations annuelles, malgré sa couverture de glace.",0
+116,Le chocolat est toxique pour les chiens,Caroline Lefevre,"Le chocolat contient de la théobromine, qui est toxique pour les chiens. Même une petite quantité peut être dangereuse pour leur santé.",0
+117,Les kangourous vivent principalement en Australie,Bernadette Lefevre,"Les kangourous sont originaires d'Australie, où ils vivent dans une grande variété d'habitats, des forêts aux déserts.",0
+118,Les oiseaux ne peuvent pas voir les couleurs,Luc Lefevre,"Les oiseaux ont une vision des couleurs bien plus développée que celle des humains. Ils peuvent voir une gamme de couleurs plus large, y compris l'ultraviolet.",1
+119,Les arbres produisent de l'oxygène,Claude Lefevre,"Les arbres jouent un rôle essentiel dans la production d'oxygène grâce à la photosynthèse, un processus par lequel ils convertissent le dioxyde de carbone et l'eau en oxygène.",0
+120,Les serpents ont des jambes,David Lefevre,"Les serpents n'ont pas de jambes. Ils ont évolué à partir d'ancêtres qui en avaient, mais au fil du temps, leurs jambes ont disparu.",1
+121,Le sable du désert est chaud,Pierre Lefevre,"Bien que le sable du désert puisse être chaud en journée, il peut devenir froid la nuit, car il ne retient pas bien la chaleur.",0
+122,Les dauphins sont des poissons,Michel Lefevre,"Les dauphins ne sont pas des poissons. Ce sont des mammifères marins, ce qui signifie qu'ils respirent de l'air et donnent naissance à des petits vivants.",0
+123,Les lunes de Jupiter sont plus grandes que la Terre,Caroline Lefevre,"Certaines lunes de Jupiter, comme Ganymède, sont effectivement plus grandes que la Terre, faisant d'elles les plus grandes lunes du système solaire.",0
+124,Les pandas mangent uniquement du bambou,Luc Lefevre,"Bien que les pandas se nourrissent principalement de bambou, ils peuvent aussi consommer d'autres plantes et, à l'occasion, des petits animaux.",1
+125,L'alcool est un stimulant,Bernadette Lefevre,"L'alcool est en réalité un dépresseur du système nerveux central. Bien qu'il puisse donner une sensation de stimulation au début, il a un effet globalement sédatif.",0
+126,Les glaciers fondent en raison du réchauffement climatique,David Lefevre,"Les glaciers fondent effectivement en raison du réchauffement climatique, ce qui contribue à l'élévation du niveau de la mer.",0
+127,Le sel est mauvais pour la santé,Pierre Lefevre,"Le sel est essentiel pour la santé, mais une consommation excessive peut entraîner des problèmes comme l'hypertension et les maladies cardiaques.",0
+128,La vitesse de la lumière est constante,Claude Lefevre,"La vitesse de la lumière dans le vide est une constante universelle de 299 792 458 mètres par seconde, selon la théorie de la relativité restreinte d'Einstein.",0
+129,Les mouches vivent seulement une journée,Michel Lefevre,"Les mouches n'ont pas une durée de vie aussi courte. Selon les espèces, elles peuvent vivre de quelques jours à quelques semaines.",1
+130,Les glaciers ne fondent que l'été,Bernadette Lefevre,"Les glaciers peuvent fondre tout au long de l'année, en particulier dans les régions où les températures restent au-dessus du point de congélation, même en hiver.",1
+131,Les poissons respirent avec des poumons,Luc Lefevre,"Les poissons respirent avec des branchies, qui leur permettent d'extraire l'oxygène dissous dans l'eau.",1
+132,Le vent est une forme d'énergie renouvelable,David Lefevre,"Le vent est effectivement une source d'énergie renouvelable, et l'énergie éolienne est de plus en plus utilisée pour produire de l'électricité de manière durable.",0
+133,Les chats aiment l'eau,Caroline Lefevre,"La plupart des chats n'aiment pas l'eau, bien que certaines races, comme le Maine Coon, puissent être plus tolérantes à l'humidité.",1
+134,Le sucre est la principale cause de l'obésité,Luc Lefevre,"L'obésité est causée par une combinaison de facteurs, notamment la surconsommation de calories, mais le sucre peut jouer un rôle majeur dans le gain de poids.",0
+135,Les lions vivent en Afrique,David Lefevre,"Les lions vivent principalement en Afrique, mais on en trouve également en Asie, où ils résident dans le parc national de Gir en Inde.",0
+136,Les girafes peuvent courir plus vite que les chevaux,Claude Lefevre,"Les girafes peuvent courir rapidement, jusqu'à 50 km/h sur de courtes distances, mais elles ne peuvent pas maintenir cette vitesse aussi longtemps qu'un cheval.",0
+137,Le miel est un produit naturel sans bactéries,Bernadette Lefevre,"Le miel est un produit naturel, mais il peut contenir de très petites quantités de bactéries. Cependant, ces bactéries sont généralement inoffensives pour l'homme, et le miel possède des propriétés antimicrobiennes.",0
+138,Les rats sont porteurs de maladies,Michel Lefevre,"Les rats peuvent être porteurs de certaines maladies transmissibles aux humains, comme la leptospirose, mais les risques sont faibles avec de bonnes pratiques sanitaires.",1
+139,La lumière peut voyager à travers l'espace,David Lefevre,"La lumière peut en effet voyager à travers le vide de l'espace, ce qui permet à la lumière du soleil d'atteindre la Terre, bien que la lumière soit affectée par les champs gravitationnels.",0
+140,Les tortues vivent très longtemps,Caroline Lefevre,"Certaines espèces de tortues, comme la tortue des Galápagos, peuvent vivre plus de 100 ans, ce qui fait d'elles des animaux à la longévité exceptionnelle.",0
+141,L'oxygène est le gaz le plus abondant dans l'atmosphère,Pierre Lefevre,"L'azote est le gaz le plus abondant dans l'atmosphère terrestre, représentant environ 78 % de l'air, tandis que l'oxygène en représente environ 21 %.",1
+142,Les volcans ne peuvent exploser sans prévenir,Claude Lefevre,"Les volcans peuvent, en effet, présenter des signes précurseurs, tels que des tremblements de terre et des émissions de gaz, avant une éruption. Cependant, ces signes ne sont pas toujours évidents.",0
+143,Les fourmis sont des insectes sociaux,Bernadette Lefevre,"Les fourmis sont des insectes sociaux qui vivent en colonies organisées. Elles travaillent ensemble pour trouver de la nourriture, élever leurs jeunes et défendre leur nid.",0
+144,Les oiseaux migrent en hiver,David Lefevre,De nombreuses espèces d'oiseaux migrent vers des régions plus chaudes durant l'hiver pour trouver de la nourriture et des conditions climatiques favorables à leur survie.,0
+145,Les satellites peuvent se déplacer dans l'espace,Pierre Lefevre,Les satellites en orbite autour de la Terre se déplacent à une grande vitesse. Leur mouvement est contrôlé par la gravité terrestre et la propulsion pour ajuster leur trajectoire.,0
+146,Le Soleil est une étoile,Caroline Lefevre,"Le Soleil est en effet une étoile, composée principalement d'hydrogène et d'hélium, qui produit de l'énergie par fusion nucléaire.",0
+147,La foudre frappe toujours au même endroit,Luc Lefevre,"La foudre peut frapper plusieurs fois au même endroit, notamment les structures métalliques et les tours. Elle peut également se déplacer dans différentes directions selon les conditions météorologiques.",1
+148,Les humains peuvent respirer sous l'eau,David Lefevre,Les humains ne peuvent pas respirer sous l'eau sans aide. Les plongeurs utilisent des équipements spéciaux comme des bouteilles d'air pour respirer sous l'eau.,0
+149,Les panthères sont des léopards noirs,Pierre Lefevre,"Les panthères noires sont effectivement des léopards, mais leur couleur noire est due à une condition génétique appelée mélanisme.",0
+150,Les poissons rouges peuvent vivre dans un petit aquarium,Luc Lefevre,"Les poissons rouges peuvent vivre dans un petit aquarium, mais ils ont besoin d'un espace plus grand pour se développer correctement et rester en bonne santé.",1
+151,Les dauphins peuvent parler,Michel Lefevre,"Les dauphins ne peuvent pas parler comme les humains, mais ils utilisent des sons, des clics et des sifflements pour communiquer entre eux.",1
+152,Les orages se produisent uniquement pendant l'été,Caroline Lefevre,"Les orages peuvent se produire toute l'année, bien qu'ils soient plus fréquents pendant les mois d'été en raison de la chaleur et de l'humidité.",1
+153,Les serpents peuvent sauter,Luc Lefevre,"Les serpents ne peuvent pas sauter. Ils se déplacent en ondulant sur le sol, mais certains types de serpents, comme le serpent volants, peuvent planer sur de courtes distances.",1
+154,La pluie tombe toujours du ciel,David Lefevre,"La pluie tombe effectivement du ciel, mais elle est formée par la condensation de la vapeur d'eau dans l'atmosphère qui se transforme en gouttes de pluie.",0
+155,Les tortues marines viennent sur la plage pour pondre,Michel Lefevre,"Les tortues marines viennent effectivement sur les plages pour pondre leurs œufs, souvent à des endroits précis qu'elles retournent année après année.",0
+156,Les baleines sont des poissons,Bernadette Lefevre,"Les baleines ne sont pas des poissons. Ce sont des mammifères marins, qui respirent de l'air et allaitent leurs petits.",0
+157,Les glaciers sont formés uniquement de glace,Claude Lefevre,"Les glaciers sont formés principalement de glace, mais ils contiennent également de la neige et d'autres débris naturels comme des pierres et de la terre.",1
+158,Les éléphants ont une mémoire exceptionnelle,Luc Lefevre,"Les éléphants sont réputés pour leur mémoire impressionnante, en particulier pour la reconnaissance des membres de leur troupeau et des parcours migratoires.",0
+159,Le sucre est essentiel à l'énergie du corps,Bernadette Lefevre,"Le sucre est effectivement une source d'énergie pour le corps, mais une consommation excessive peut avoir des effets négatifs sur la santé, comme l'obésité et les maladies cardiaques.",0
+160,Le fromage est fait uniquement à partir de lait de vache,David Lefevre,"Le fromage peut être fait à partir de différents types de lait, notamment de vache, de chèvre, de brebis, et même de lait de bufflonne, selon le type de fromage.",1
+161,Les étoiles sont toutes de la même taille,Pierre Lefevre,"Les étoiles varient énormément en taille, de petites naines rouges à des supergéantes, qui peuvent être des centaines de fois plus grandes que notre Soleil.",1
+162,Les glaciers sont un signe de réchauffement climatique,Caroline Lefevre,"La fonte des glaciers est un signe de réchauffement climatique, car l'augmentation des températures mondiales accélère leur fonte.",0
+163,Les araignées sont des insectes,David Lefevre,"Les araignées ne sont pas des insectes. Elles font partie de la classe des arachnides, qui inclut également les scorpions, les acariens et les tiques.",1
+164,Les tortues marines mangent uniquement des algues,Luc Lefevre,"Les tortues marines peuvent manger une variété d'aliments, y compris des algues, des méduses et des crustacés, selon l'espèce.",1
+165,Les girafes ont le même nombre de vertèbres que les humains,Bernadette Lefevre,"Les girafes ont le même nombre de vertèbres cervicales que les humains, c'est-à-dire sept, mais leurs vertèbres sont beaucoup plus longues.",0
+166,Les chauves-souris sont aveugles,David Lefevre,"Les chauves-souris ne sont pas aveugles. Elles ont une bonne vue, mais elles utilisent principalement l'écholocation pour se repérer dans l'obscurité.",1
+167,Les aurores boréales sont un phénomène lumineux naturel,Caroline Lefevre,"Les aurores boréales sont un phénomène lumineux naturel qui se produit lorsque des particules solaires entrent en collision avec les gaz de l'atmosphère terrestre, créant des lumières colorées.",0
+168,Les abeilles peuvent vivre sans leur reine,Luc Lefevre,Les abeilles ne peuvent pas vivre sans leur reine. La reine est essentielle pour la reproduction et le maintien de la colonie.,1
+169,Le colza est une plante comestible,Pierre Lefevre,"Le colza est une plante cultivée principalement pour ses graines, qui sont utilisées pour produire de l'huile. Bien que certaines parties de la plante soient comestibles, elle n'est pas couramment consommée.",0
+170,Le lait est un aliment riche en calcium,Claude Lefevre,"Le lait est effectivement une source riche en calcium, qui est essentiel pour la santé des os et des dents.",0
+171,Les grenouilles peuvent respirer par la peau,Bernadette Lefevre,"Les grenouilles peuvent respirer à la fois par leurs poumons et par leur peau, ce qui leur permet de survivre dans des environnements aquatiques et terrestres.",0
+172,Les baleines mangent des poissons uniquement,Luc Lefevre,"Certaines baleines, comme la baleine bleue, se nourrissent principalement de krill, tandis que d'autres espèces se nourrissent de poissons et d'autres créatures marines.",1
+173,Les requins peuvent vivre sans nourriture pendant plusieurs mois,David Lefevre,"Les requins peuvent survivre pendant plusieurs mois sans nourriture, car ils peuvent ralentir leur métabolisme et utiliser les réserves de graisse de leur corps.",0
+174,Les hippopotames vivent dans l'eau pour se protéger du soleil,Caroline Lefevre,"Les hippopotames passent beaucoup de temps dans l'eau pour se protéger de la chaleur du soleil, car leur peau est sensible aux coups de soleil.",0
+175,Le bambou peut croître rapidement,Pierre Lefevre,"Le bambou est l'une des plantes à la croissance la plus rapide, certaines espèces pouvant pousser jusqu'à 90 cm par jour dans des conditions optimales.",0
+176,Les koalas mangent uniquement des eucalyptus,David Lefevre,"Les koalas se nourrissent principalement de feuilles d'eucalyptus, bien que certains peuvent manger d'autres types de plantes occasionnellement.",0
+177,Les étoiles filantes sont des météorites,Luc Lefevre,"Les étoiles filantes sont en réalité des météores, qui sont de petites particules de roche ou de métal entrant dans l'atmosphère terrestre et se désintégrant sous la chaleur.",0
+178,Le chocolat est fait uniquement de cacao,Bernadette Lefevre,"Le chocolat est fabriqué à partir de fèves de cacao, mais il contient également du sucre, du lait, et d'autres ingrédients selon le type de chocolat.",1
+179,Les crocodiles vivent uniquement dans l'eau,Claude Lefevre,"Les crocodiles vivent principalement dans les zones humides, mais ils peuvent aussi se déplacer sur terre pour chercher de la nourriture ou se réchauffer au soleil.",0
+180,Les glaciers sont importants pour réguler le climat,Caroline Lefevre,"Les glaciers jouent un rôle important dans la régulation du climat mondial, en stockant de grandes quantités d'eau douce et en régulant la température.",0
+181,Les éléphants ont des oreilles plus grandes que les rhinos,Pierre Lefevre,"Les éléphants ont en effet des oreilles beaucoup plus grandes que les rhinocéros, ce qui leur permet de mieux réguler leur température corporelle.",0
+182,Les coraux sont des animaux marins,Luc Lefevre,Les coraux sont des animaux marins qui vivent en colonies et forment de grandes structures appelées récifs coralliens.,0
+183,Les hirondelles migrent vers le sud pour l'hiver,David Lefevre,Les hirondelles migrent vers des régions plus chaudes pendant l'hiver pour éviter les températures froides et continuer à se nourrir.,0
+184,Le vent peut être utilisé comme source d'énergie,Bernadette Lefevre,Le vent est une source d'énergie renouvelable largement utilisée à travers des éoliennes pour produire de l'électricité.,0
+185,Les chauves-souris sont les seuls mammifères capables de voler,Claude Lefevre,"Les chauves-souris sont les seuls mammifères capables de voler, avec des ailes qui sont modifiées à partir de leurs membres antérieurs.",0
+186,Les canards peuvent nager et voler,Luc Lefevre,"Les canards sont adaptés pour nager et voler, avec des pattes palmées pour la nage et des ailes pour le vol.",0
+187,Les méduses n'ont pas de cerveau,Pierre Lefevre,Les méduses n'ont pas de cerveau; elles sont dirigées par un réseau de nerfs et de cellules réactives appelées ganglions.,0
+188,Les dauphins ont des dents comme les humains,David Lefevre,"Les dauphins ont des dents, mais elles sont généralement beaucoup plus pointues et adaptées à attraper des poissons plutôt qu'à mastiquer.",0
+189,Le sable est composé de coquillages écrasés,Caroline Lefevre,"Le sable est constitué de différentes matières, dont des coquillages, des minéraux et des roches, mais il peut aussi être formé par l'érosion d'autres matériaux.",0
+190,Le soleil est une étoile,Luc Lefevre,"Le soleil est une étoile située au centre de notre système solaire, composée principalement d'hydrogène et d'hélium.",0
+191,Les singes sont capables de parler comme les humains,Claude Lefevre,"Les singes ne peuvent pas parler comme les humains, mais certains peuvent imiter des sons ou utiliser des gestes pour communiquer.",1
+192,Les éruptions solaires peuvent perturber les communications,David Lefevre,"Les éruptions solaires, ou tempêtes solaires, peuvent perturber les communications par satellite, les systèmes de navigation et les réseaux électriques.",0
+193,Le chocolat noir est moins sucré que le chocolat au lait,Bernadette Lefevre,"Le chocolat noir contient moins de sucre que le chocolat au lait, car il a une teneur plus élevée en cacao et moins d'ingrédients sucrés.",0
+194,Le poisson est une excellente source de protéines,Pierre Lefevre,"Le poisson est effectivement une excellente source de protéines, avec l'avantage supplémentaire d'être riche en acides gras oméga-3.",0
+195,Les kangourous vivent uniquement en Australie,Claude Lefevre,"Les kangourous sont originaires d'Australie, mais ils ont été introduits dans d'autres pays et peuvent parfois y être trouvés.",0
+196,Les lions vivent en solitaire,Caroline Lefevre,"Les lions vivent en groupes appelés meutes, composés de plusieurs femelles, de leurs petits et de quelques mâles.",1
+197,Les chameaux ont trois estomacs,David Lefevre,"Les chameaux ont un estomac à trois compartiments, ce qui leur permet de digérer les plantes sèches et difficiles à digérer dans leur environnement aride.",0
+198,Les pandas ne mangent que du bambou,Bernadette Lefevre,"Les pandas se nourrissent principalement de bambou, mais ils peuvent également manger des petits animaux ou des œufs occasionnellement.",1
+199,Les baleines sont des poissons,Luc Lefevre,"Les baleines sont des mammifères marins, et non des poissons, car elles respirent de l'air et donnent naissance à des petits vivants.",1
+200,Les crocodiles vivent dans des habitats marins uniquement,David Lefevre,"Les crocodiles peuvent vivre à la fois dans des habitats marins et d'eau douce, et ils sont capables de s'adapter à différents environnements.",0

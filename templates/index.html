@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+   
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+
+    <title>Détection de la désinformation en ligne</title>
+  </head>
+  <body class="bg-gray-50">
+
+    <!-- New Header Section with Background Image -->
+    <header class="text-white body-font bg-cover bg-center" style="background-image: url('{{ url_for('static', filename='back.jpg') }}');">
+      <div class="container mx-auto flex p-5 flex-col md:flex-row items-center justify-between bg-black bg-opacity-50 p-8">
+        <!-- Left Logo with Tailwind Styling -->
+        <div class="flex items-center">
+          <img src="{{ url_for('static', filename='logo1.png') }}" alt="Logo Gauche" class="w-20 h-20 object-contain rounded-full shadow-lg border-4 border-white">
+        </div>
+
+        <!-- Navigation Menu centered and sleek -->
+        <nav class="flex space-x-10 text-lg font-semibold text-white">
+          <a href="/" class="hover:text-yellow-500 transition-all">Accueil</a>
+          <a href="/predict" class="hover:text-yellow-500 transition-all">Prédiction</a>
+          <a href="/about" class="hover:text-yellow-500 transition-all">À propos</a>
+          <a href="/contact" class="hover:text-yellow-500 transition-all">Contactez-nous</a>
+        </nav>
+
+        <!-- Right Logo with Tailwind Styling -->
+        <div class="flex items-center">
+          <img src="{{ url_for('static', filename='logo.png') }}" alt="Logo Droit" class="w-20 h-20 object-contain rounded-full shadow-lg border-4 border-white">
+        </div>
+      </div>
+    </header>
+
+    <hr class="my-4 border-gray-300">
+
+    <!-- Main Content Section with updated design -->
+    <section class="text-gray-600 body-font py-16 px-4">
+      <div class="container mx-auto flex flex-col lg:flex-row items-center">
+        <!-- Text Section -->
+        <div class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col items-center text-center mb-12 lg:mb-0">
+          <h1 class="text-5xl sm:text-6xl mb-6 font-bold text-gray-800 leading-tight">
+            Détection de la désinformation en ligne
+            
+          <div class="flex justify-center">
+            <a href="/predict">
+              <button class="bg-green-500 hover:bg-green-600 text-white py-3 px-8 rounded-full text-lg shadow-lg transition-all">
+                Commencer
+              </button>
+            </a>
+          </div>
+        </div>
+
+
+      </div>
+    </section>
+
+  
+
+    <!-- Optional JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>
